@@ -84,8 +84,6 @@ Data transfer configurations: <br/>
 
 <p align="center">
 Completed the EC2 configuration and reviewed the cost estimate:
-<br/>
-<img src="images/Screenshot 2024-09-28 at 11.41.24 AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <img src="images/Screenshot 2024-09-28 at 11.41.44 AM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
