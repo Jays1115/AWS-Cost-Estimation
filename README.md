@@ -3,7 +3,7 @@
 <b>[Tech Portfolio Home](https://github.com/Jays1115/Jalen-Smith.git)</b> /
 <b>[AWS Projects](https://github.com/Jays1115/AWS-Projects.git)</b>
 
-# Cost Estimation
+# AWS Cost Estimation
 
 <h2>Description</h2>
 Scenario: Setting up a surf shop in the cloud. The user is considering AWS to host their online store and is particularly interested in managing costs effectively. They are contemplating reducing server usage during off-peak hours to save money and want to create a cost estimate for their cloud architecture to ensure cost-efficiency.
